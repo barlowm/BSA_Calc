@@ -6,7 +6,7 @@ grunt Check - Runs Lint on the code (with EcmaScript 6 enabled),
 BSA_Calc.js is the main code base (Decimal.js is an assistant library for math calculations).
 After making changes to BSA_Calc.js, run grunt from the command line:
 
-C:\WebRoot\_CODE_\BSA_Calc>grunt
+D:\\WebRoot\\_CODE_\\BSA_Calc>grunt
 
 This will build the actual code modules by running the babel transpiler on the BSA_Calc.js code modules
 The resulting runnable code will be deposited into the DIST folder.
