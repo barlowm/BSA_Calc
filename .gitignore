@@ -1,0 +1,7 @@
+/dist
+/BACKUP
+/node_modules
+
+/*.bak
+/*.*.bak
+/tests/*.bak

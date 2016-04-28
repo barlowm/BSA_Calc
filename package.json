@@ -1,0 +1,40 @@
+{
+  "name": "bsa_calc",
+  "version": "1.0.0",
+  "description": "Body Surface Area Calculations Module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barlowm/BSA_Calc.git"
+  },
+  "author": "mike barlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barlowm/BSA_Calc/issues"
+  },
+  "homepage": "https://github.com/barlowm/BSA_Calc",
+
+  "comments" : {
+    "BrowserifyComment" : "Taken from Essential ES6 / ES2015 JavaScript YouTube video - https://www.youtube.com/watch?v=CozSF5abcTA"
+  },
+
+  "dependencies": {
+    "grunt": "*",
+    "grunt-cli": "*"
+  },
+
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-defaults": "*",
+    "eslint-html-reporter": "*",
+    "grunt-babel": "*",
+    "grunt-eslint": "*",
+    "load-grunt-tasks": "^3.3.0",
+
+    "babel": "^5.4.7",
+    "babel-preset-es2015" : "*",
+    "babelify": "^6.1.2",
+    "chai": "latest",
+    "mocha": "latest",
+    "grunt-mocha": "latest"
+  }
+}
